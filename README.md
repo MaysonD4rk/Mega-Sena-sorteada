@@ -1,2 +1,3 @@
 # Mega-Sena-sorteada
 Esse app de react-native é assim... 
+Você coloca um numero no textInput esse textInput = quantidade de numeros que serão gerados, aí ele sorteia um numero de 0-60 que não se repetem.
